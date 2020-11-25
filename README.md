@@ -1,1 +1,1 @@
-#### NuxtJS + egg.js 
+#### Nuxt.js + Egg.js 搭建项目
