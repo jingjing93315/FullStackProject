@@ -46,7 +46,7 @@ export default {
   data() {
     return {
       form: {
-        email: "898488376@qq.com",
+        email: "897488376@qq.com",
         nickname: "一线蓝光",
         password: "gaojing123",
         repassword: "gaojing123",
