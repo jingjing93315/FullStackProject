@@ -19,7 +19,19 @@
     - 秒传&断点续传(spark-md5) incremental md5(增量md5)
     - 异步任务控制
     - 区块报错处理
+
+3. 新建文章markdown编辑器 
+
+    - 粘贴和拖拽图片
+    - marked & 语法高亮highlight.js
+4. 文章相关
+
+    - 首页布局
+    - 文章列表
+    - 虚拟列表实现文章列表
+    - 关注和点赞
+    
 ##### Server端
 
-1. uploadFile实现 文件合并
+**提供相关接口**
 
